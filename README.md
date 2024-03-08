@@ -2,6 +2,7 @@
 
 ReactJS modules are simple but have many advantages, one of which is that you can customize them freely.
 
+<img src="./Screenshot.png" />
 ## NPM Installation
 
 ```sh

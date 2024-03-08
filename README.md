@@ -1,0 +1,1 @@
+# hy-splash-screen-react

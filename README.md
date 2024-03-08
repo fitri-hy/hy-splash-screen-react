@@ -12,7 +12,7 @@ npm install hy-splash-screen-react
 
 ```sh
 // Add - Impport module //
-import SplashScreen from 'SplashScreen';
+import SplashScreen from 'hy-splash-screen-react';
 //----//
 
 const App = () => {
